@@ -17,7 +17,7 @@
   
 <body>
 	
-<header id="header"><p>Formation Exam 701: DevOps Tools Engineer | LPI...Ops</p></header>
+<header id="header"><p>Formation Exam 701: DevOps Tools Engineer | LPI...Ops Yes</p></header>
 	</br></br>
 
   <center> 
